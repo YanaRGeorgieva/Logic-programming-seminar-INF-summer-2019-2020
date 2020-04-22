@@ -1,3 +1,11 @@
+/*
+Some links:
+https://www.swi-prolog.org/
+http://www.learnprolognow.org/lpnpage.php?pageid=top
+https://www.ic.unicamp.br/~meidanis/courses/mc336/2009s2/prolog/problemas/
+http://cs.union.edu/~striegnk/courses/esslli04prolog/index.php
+http://kti.ms.mff.cuni.cz/~bartak/prolog.old/learning.html
+*/
 % S|=f
 
 % 1. Факти
