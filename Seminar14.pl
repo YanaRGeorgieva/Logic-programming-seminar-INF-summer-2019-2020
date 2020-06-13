@@ -155,7 +155,7 @@ areAllAnagrams(X, [H|T]):- isAnagram(X, H), areAllAnagrams(X, T).
 число i е в сила равенството X = i+ξ(i) за su(X).
 */
 
-isPrime(P):- not(( between(2, P, K), d(K, P) )).
+isPrime(P):- P1 is P - 1, not(( between(2, P1, K), d(K, P) )).
 
 ksi(I, NumPrimes):- ksi(I, 2, NumPrimes).
 ksi(I, I, 0).
